@@ -1,0 +1,42 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color:#fafafb;
+    padding: 30px;
+}
+
+.footer-container > ul > li {
+    list-style: none;
+    padding: 12px 0px 12px 0px;
+}
+
+.sub-info8{
+    margin: 70px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.sub-info9{
+    display: flex;
+}
+.sub-info9 > img{
+    width: 30px;
+    height: 30px;
+}
+
+.sub-info9 > p{
+    margin-top: 5px;
+    margin-right: 18px;
+}
+
+.footer-header{
+    color: #d85888;
+    font-family: 'Pacifico';
+    font-weight: 300;
+}
+
+.dropdown-content{
+    position: absolute;
+    background-color: white;
+    z-index: 8;
+    top: 80px;
+}

@@ -1,0 +1,18 @@
+.side-container{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 300px;
+    align-items: center;
+    padding: 20px;
+    margin-right: 40px;
+    position: sticky;
+}
+.sticky{
+    
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+    justify-content: space-around;
+}

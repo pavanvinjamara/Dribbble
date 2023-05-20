@@ -1,0 +1,123 @@
+{ 
+  "image": [
+  {
+      "cover": "/Images/home1.png",
+      "title": "Skype® - Mobile..."
+      
+  },
+  {
+    "cover": "/Images/home2.png",
+      "title": "Real Time Trans..."
+     
+  },
+  {
+    "cover": "/Images/home3.png",
+      "title": "Chat Messeng..."
+  },
+  
+  {
+    "cover": "/Images/home4.png",
+      "title": "Think it's mid..."
+  }
+],
+    "Inspiration": [
+      {
+        "icon": "faHeart",
+        "header": "Explore Design",
+        "para":""
+      },
+      {
+        "icon": "faHeart",
+        "header": "New & Noteworthy",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Playoffs",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Blog",
+        "para":""
+      }
+  ],
+    "Find Work": [
+      {
+        "icon": "faicon",
+        "header": "Job Board",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Freelance Projects",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Want freelance design projects",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Personalize your profile with video",
+        "para":""
+      }
+    ],
+    "Learn Design": [
+      {
+        "icon": "faicon",
+        "header": "Certified Product Design Course",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "introduction to UI Design",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Design System Course",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Design caroor Prop Course",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Browser our course",
+        "para":""
+      }
+    ],
+    "Go Pro": [
+      {
+        "icon": "",
+        "header": "Design",
+        "para":""
+      }
+    ],
+    "Hire Designers": [
+      {
+        "icon": "faicon",
+        "header": "About Dribbble hiring",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Designer Search",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "List my job Opening",
+        "para":""
+      },
+      {
+        "icon": "faicon",
+        "header": "Post a freelance Project",
+        "para":""
+      }
+    ]
+  }
